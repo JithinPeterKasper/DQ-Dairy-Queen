@@ -48,6 +48,7 @@ export default function CartItem({cart}) {
                 +
               </span>
             </div>
+            
           )}
          </div>
          </div>
