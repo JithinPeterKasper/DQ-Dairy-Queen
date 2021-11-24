@@ -8,9 +8,9 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://dairy-queen-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-dq-dairyqueen-jithin.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://dairy-queen-backened.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-dq-dairyqueen-jithin.herokuapp.com/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://dairy-queen-backened.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/sana-khan27/Dairy-Queen.git
+https://github.com/JithinPeterKasper/DQ-Dairy-Queen.git
 ```
 
 2. Backend setting
